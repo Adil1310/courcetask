@@ -608,6 +608,10 @@ footer{
     background: #FFFFFF;
     border: 1px solid transparent;
     cursor: pointer;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: #6A5843;
 }
 
 .footer-langs{
